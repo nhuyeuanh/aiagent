@@ -1,0 +1,6 @@
+ai-ba-streamlit/
+│
+├── app.py             👉 File chính chạy web
+├── .env               👉 Lưu API key
+├── agent.py           👉 Logic AI Agent
+├── requirements.txt   👉 (tùy chọn)
